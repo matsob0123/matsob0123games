@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <pagescount>
-	<html_total>1</html_total>
-	<html_done>1</html_done>
+	<html_total>2</html_total>
+	<html_done>2</html_done>
 	<images>1</images>
-	<script>2</script>
-	<css>4</css>
+	<script>7</script>
+	<css/>
 	<pdf/>
 	<documents/>
 	<excel/>
@@ -16,20 +16,20 @@
 	<json/>
 	<txt/>
 	<autocad/>
-	<fonts>185</fonts>
+	<fonts>5</fonts>
 	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>matsob0123@gmail.com</email>
-	<theme_name>WmdTheme613111</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/matsob0123.nicepage.io_matsob0123_gmail.com_v56mjyxv8e/</server_url_front_page>
-	<no_www_url>matsob0123.nicepage.io</no_www_url>
+	<theme_name>WmdTheme635213</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/matsob0123games.godaddysites.com_matsob0123_gmail.com_fy25cu49ue/</server_url_front_page>
+	<no_www_url>matsob0123games.godaddysites.com</no_www_url>
 	<hosted_domain/>
-	<original_archive_url>http://matsob0123.nicepage.io/</original_archive_url>
-	<final_archive_url>http://matsob0123.nicepage.io/</final_archive_url>
+	<original_archive_url>https://matsob0123games.godaddysites.com/</original_archive_url>
+	<final_archive_url>https://matsob0123games.godaddysites.com/</final_archive_url>
 	<front_page_code_date/>
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>4000</total_size>
+	<total_size>920</total_size>
 </pagescount>
