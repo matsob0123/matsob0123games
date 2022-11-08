@@ -1,0 +1,9 @@
+
+
+[[edge_functions]]
+function = "set-req-header"
+path = "/test"
+
+[[edge_functions]]
+function = "set-cookies"
+path = "/test"
