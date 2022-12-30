@@ -1,0 +1,32 @@
+.bt{
+  background: #333;
+  color: #fdfdfd;
+  min-height: 35px;
+  margin: 0;
+  border-radius: 3px;
+  border: 0;
+  line-height: 35px;
+  text-align: center;
+  margin: .5em 0 .5em 0;
+
+}
+
+a.bt{
+  display: inline;
+  padding: 7px 10px 7px 10px;
+}
+
+.bt:hover{
+  background: #000;
+}
+
+@media only screen and (max-width:480px) { 
+  .bt {
+    width: 100%;
+  }
+  
+  a.bt{
+    display: block;
+    padding: 0;
+  }
+}
